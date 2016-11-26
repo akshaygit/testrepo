@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "testing in progress";
-echo "done"
+echo "changes done"
