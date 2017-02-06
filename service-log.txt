@@ -1,0 +1,2 @@
+   Active: active (running) since Mon 2017-02-06 03:15:40 PST; 24min ago
+Feb 06 03:15:39 host-1 dockerd-current[19828]: time="2017-02-06T03:15:39.778122620-08:00" level=info msg="Firewalld running: true"
